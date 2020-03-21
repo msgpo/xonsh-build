@@ -1,6 +1,6 @@
 # xonsh-build
 ```
-git clone https://github.com/xonsh/xonsh
+git clone --depth 1 https://github.com/xonsh/xonsh
 cd xonsh
 make amalgamate
 pip wheel .
