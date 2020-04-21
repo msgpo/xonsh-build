@@ -6,3 +6,7 @@ make amalgamate
 pip wheel .
 ls *.whl
 ```
+or 
+```
+python setup.py install
+```
